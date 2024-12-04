@@ -34,6 +34,10 @@ export default {
       "random-mega-pokemon-generator": {
         title: "Random Mega Pokemon Generator",
         href: "/tools/random-mega-pokemon-generator"
+      },
+      "random-pokemon-team-generator": {
+        title: "Random Pokemon Team Generator",
+        href: "/tools/random-pokemon-team-generator"
       }
     }
   },

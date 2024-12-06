@@ -35,8 +35,10 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx",
-    ".next/types/**/*.ts"
-, "src/pages/index.mdx", "src/pages/tools/random-pokemon-type-generator.mdx"  ],
+    ".next/types/**/*.ts",
+    "src/pages/index.mdx",
+    "src/pages/tools/random-pokemon-type-generator.mdx"
+  ],
   "exclude": [
     "node_modules"
   ]
